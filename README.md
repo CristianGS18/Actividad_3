@@ -1,2 +1,19 @@
 # Actividad_3
-Ejercicio para la manipulación de archivos .txt; creación, lectura y escritura con la clase Stream, FileStream, StreamWrite y StreamRead.
+
+## Datos de Integrantes
+
+* Materia:
+Administración y Organización de Datos
+
+* Tema:
+2 Organizaciones básicas
+
+* Actividad:
+Aplicación de Consola
+
+* Integrantes:
+Cristian Gonzalez Santos,
+Octavio de Jesus Paniagua Vargas.
+
+* Grado:
+4°E
